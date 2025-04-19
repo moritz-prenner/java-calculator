@@ -1,4 +1,3 @@
-package src;
 
 import javax.swing.*;
 import javax.swing.border.*;
@@ -19,7 +18,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Das Fenster erstellen:
-        JFrame calcFrame = new JFrame("Calculator");
+        JFrame calcFrame = new JFrame("Java Calculator");
 
         // Einstellungen für das Fenster
         calcFrame.setResizable(false);
